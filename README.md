@@ -1,6 +1,7 @@
 # Sorting_Illustrator
 **A Web-based Project developed to illustrate different sorting techniques using a bar graph representation of input array values.**
-#### Have a look at the live version here:https://krithimnc2027.github.io/Sorting_Illustrator/
+#### Have a look at the live version here: https://krithimnc2027.github.io/sorting_illustrator/
+
 <details>
   <summary>Implemented Algorithms</summary>
   <br>
